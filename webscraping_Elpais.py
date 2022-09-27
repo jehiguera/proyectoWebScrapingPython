@@ -1,4 +1,4 @@
-#Ejemplo para hacer web scrapping en la web de www.elpais para descargar noticias que no se pueden leer sin estar con la suscripcion de pago
+#Ejemplo de web scrapping en la web de www.elpais para descargar noticias que no se pueden leer sin estar con la suscripcion de pago
 #Jhiguera@ieee.org
 #06/08/2022
 
