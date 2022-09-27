@@ -25,4 +25,5 @@ for quote in quotes:
 
 
 ficheroNoticia2.close()
+print("Fichero de texto creado!!")
  
