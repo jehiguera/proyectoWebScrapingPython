@@ -2,6 +2,7 @@ import pytest
 import subprocess
 
 # Test to check if the arp -a command shows the IP 192.168.2.1
+# execute the test: pytest test2.py
 def test_arp_command():
     ip_to_check = "192.168.2.1"
     try:
